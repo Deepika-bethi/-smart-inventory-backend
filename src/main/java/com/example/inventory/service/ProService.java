@@ -1,4 +1,4 @@
-package com.smartinventory.service;
+package com.example.inventory.service;
 
 import com.example.inventory.entity.Pro;
 import com.example.inventory.repository.ProRepository;

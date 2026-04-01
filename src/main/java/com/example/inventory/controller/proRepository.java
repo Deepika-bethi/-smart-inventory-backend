@@ -1,5 +1,5 @@
 package com.example.inventory.controller;
 
-public class ProService {
+public class proRepository {
 
 }
